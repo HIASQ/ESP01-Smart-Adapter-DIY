@@ -12,7 +12,12 @@ Standard USB-to-ESP01 adapters often lack physical buttons for **Reset** and **F
 - **Universal Compatibility:** Can be used with CP2102, FTDI, or any USB-to-TTL module.
 
 ### 📋 Connection Diagram:
+
+###Original diagram:
 ![ESP01 Adapter Schematic](ESP01_adapter.png)
+
+This diagram converted to look like a pencil drawing:
+![ESP01 Adapter Schematic](ESP01_Adapter.jpg)
 
 ### 🔌 Pinout Configuration:
 | ESP-01 Pin | Connection | Component |
