@@ -15,15 +15,15 @@ Standard USB-to-ESP01 adapters often lack physical buttons for **Reset** and **F
 
 <div align="center">
   <a href="ESP01_adapter.png">
-    <img src="circuit_TEST_1.png" width="400" alt="Circuit Test Image">
+    <img src="ESP01_adapter.png" width="400" alt="Circuit Test 1">
   </a>
-</div>
-<div align="center">
-  <a href="ESP01_Adapter.jpg">
-    <img src="circuit_TEST_1.png" width="800" alt="Circuit Test Image">
-  </a>
-</div>
 
+  &nbsp;&nbsp;
+
+  <a href="ESP01_Adapter.jpg">
+    <img src="ESP01_Adapter.jpg" width="800" alt="ESP01 Adapter">
+  </a>
+</div>
 
 ### 🔌 Pinout Configuration:
 | ESP-01 Pin | Connection | Component |
