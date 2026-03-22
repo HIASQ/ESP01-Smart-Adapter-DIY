@@ -21,7 +21,7 @@ Standard USB-to-ESP01 adapters often lack physical buttons for **Reset** and **F
   &nbsp;&nbsp;
 
   <a href="ESP01_Adapter.jpg">
-    <img src="ESP01_Adapter.jpg" width="800" alt="ESP01 Adapter">
+    <img src="ESP01_Adapter.jpg" width="600" alt="ESP01 Adapter">
   </a>
 </div>
 
